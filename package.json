@@ -1,22 +1,21 @@
 {
-  "name": "react-native-loading-w",
-  "version": "1.0.0",
-  "description": "```javascript npm install react-native-loading-w --save",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wenxucheng/react-native-loading-w.git"
-  },
-  "author": {
-    "name": "wenxucheng",
-    "email": "wenxucheng@163.com"
-  },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wenxucheng/react-native-loading-w/issues"
-  },
-  "homepage": "https://github.com/wenxucheng/react-native-loading-w#readme"
+    "name": "react-native-loading",
+    "version": "1.0.0",
+    "description": "```javascript npm install react-native-loading-qinxorg --save",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nevernet/react-native-loading.git"
+    },
+    "author": {
+        "name": "daniel"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nevernet/react-native-loading/issues"
+    },
+    "homepage": "https://github.com/nevernet/react-native-loading#readme"
 }
